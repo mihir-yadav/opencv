@@ -2,7 +2,7 @@
 using the opencv framework in python to do some interesting stuff
 
 
-The blue_filter_stream.py and red_filter.py basically use the inRange funcion of numpy and the bitwise_and function of cv2. This idea can be used to filter out any given color using their hsv values. Note:pressing 'q' finishes the live streaming by closing the popup window.
+The blue_filter_stream.py and red_filter.py basically use the inRange funcion of numpy and the bitwise_and function of cv2. This idea can be used to filter out any given color using their hsv values. Note: pressing 'q' finishes the live streaming by closing the popup window.
 
 Edge detection is mainly implemented using the Laplacian and Sobel functions.
 
